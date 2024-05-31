@@ -23,26 +23,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criação de e-book utilizando 100% inteligência artificial, modelos mais recentes de IA Generativas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Gpt3.5
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi utilizando no processo o ChatGpt para gerar a explicação do código python contido no ebook, bem como o copy. Notion, para descrever os passos e o GAmma.app para gerar um modelo de slide para o e-book.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+E-book: Python Descomplicado: O caminho do autodidata
+https://hotmart.com/pt-br/marketplace/produtos/python-descomplicado-o-caminho-do-autodidata/G90329741B
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+No ínicio pareceu algo bastante complicado, após ver varios tutoriais tudo foi ficando fácil e simples. A utilização de IA foi algo bastante novo.
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](https://hotmart.com/pt-br/marketplace/produtos/python-descomplicado-o-caminho-do-autodidata/G90329741B)
 
 ## Links Interessantes
 
